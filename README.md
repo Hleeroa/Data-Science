@@ -7,3 +7,6 @@ It was modernized with bigger amount of data. I've also included pandas for more
 Imagining to work for an app creating company we analyse apps to make a suggestion for developers about what kind of app will be more successful on the market. 
 Our company makes only free apps so its essential to gather as many installs as we can. For the place to upload our app we chose first - Google Play and second, 
 if everything will go smooth - App Store, as the most popular app stores.
+
+### What's inside 
+- __2021__ - a folder with project with data gathered in 2021 year
