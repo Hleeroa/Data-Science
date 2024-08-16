@@ -10,3 +10,5 @@ if everything will go smooth - App Store, as the most popular app stores.
 
 ### What's inside 
 - __2021__ - a folder with project with data gathered in 2021 year
+
+- __requirements.txt__ - a file with all requirements needed to use the project
